@@ -1,0 +1,59 @@
+<wpml-config>
+  <admin-texts>
+    <key name="current_theme"/>
+    <key name="theme_mods_spice-software">
+      <key name="0"/>
+      <key name="nav_menu_locations"/>
+      <key name="custom_css_post_id"/>
+      <key name="sidebars_widgets">
+        <key name="time"/>
+        <key name="data">
+          <key name="wp_inactive_widgets"/>
+          <key name="sidebar-1">
+            <key name="0"/>
+            <key name="1"/>
+            <key name="2"/>
+            <key name="3"/>
+            <key name="4"/>
+            <key name="5"/>
+          </key>
+          <key name="footer-sidebar-1"/>
+          <key name="footer-sidebar-2"/>
+          <key name="footer-sidebar-3"/>
+          <key name="footer-sidebar-4"/>
+          <key name="footer-bar-1"/>
+          <key name="woocommerce"/>
+        </key>
+      </key>
+      <key name="custom_logo"/>
+      <key name="header_textcolor"/>
+      <key name="after_menu_html"/>
+      <key name="home_slider_subtitle"/>
+      <key name="home_slider_title"/>
+      <key name="home_slider_discription"/>
+      <key name="home_slider_btn_txt"/>
+      <key name="home_slider_btn_link"/>
+      <key name="home_slider_btn_txt2"/>
+      <key name="home_slider_btn_link2"/>
+      <key name="home_service_section_title"/>
+      <key name="home_service_section_discription"/>
+      <key name="spice_software_service_content"/>
+      <key name="home_testimonial_section_title"/>
+      <key name="home_testimonial_section_discription"/>
+      <key name="home_testimonial_title"/>
+      <key name="home_testimonial_desc"/>
+      <key name="home_testimonial_name"/>
+      <key name="home_testimonial_designation"/>
+      <key name="home_testimonial_link"/>
+      <key name="spice_software_testimonial_content"/>
+      <key name="home_news_section_title"/>
+      <key name="home_news_section_discription"/>
+      <key name="home_news_button_title"/>
+      <key name="home_blog_more_btn"/>
+      <key name="home_blog_more_btn_link"/>
+      <key name="home_team_section_title"/>
+      <key name="home_team_section_discription"/>
+      <key name="spice_software_team_content"/>
+    </key>
+  </admin-texts>
+</wpml-config>

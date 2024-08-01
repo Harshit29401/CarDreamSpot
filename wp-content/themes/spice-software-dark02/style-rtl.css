@@ -1,0 +1,86 @@
+/*
+Theme Name: Spice Software Dark
+Theme URI: https://spicethemes.com/spice-software-dark-wordpress-theme/
+Author: spicethemes
+Author URI: https://spicethemes.com
+Description: Spice Software Dark Theme is a lightweight, elegant, fully responsive, and translation-ready theme that allows you to create stunning blogs and websites. The theme is well suited for companies, law firms, eCommerce, finance, agency, travel, photography, design, arts, personal, and any other creative websites and blogs. The theme is developed using the Bootstrap 4 framework. It comes with a predesigned home page, good-looking header designs, and a number of content sections that you can easily customize. It also has lots of customization options (banner, services, testimonial, etc) that will help you create a beautiful, unique website in a short time. The theme is compatible with popular plugins like Rank Math , NavXT, Polylang, WooCommerce and Contact Form 7. Spice Software Dark theme is available in several locales. (DEMO: https://spice-software-dark.spicethemes.com/) 
+Template: spice-software
+Tags: one-column, two-columns, right-sidebar, custom-menu, custom-logo, editor-style, e-commerce, blog, featured-images, footer-widgets, sticky-post, threaded-comments, translation-ready, rtl-language-support, accessibility-ready
+Version: 1.1.2
+Requires at least: 4.5
+Tested up to: 6.2
+Requires PHP: 5.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: spice-software-dark
+*/
+
+/*===================================================================================*/
+/* Testimonial SECTION 4
+/*===================================================================================*/
+.testimonial.testi-4 {
+    background: -12% 50% no-repeat;
+}
+.testimonial.testi-4 .testmonial-block,.page-template-template-testimonial-8 .testmonial-block{
+    box-shadow: 0px 6px 6px 0px rgba(255, 255, 255, 0.1);
+    margin-bottom: 2px;
+}
+.testimonial.testi-4 .testmonial-block .entry-content:before,
+.testimonial.testi-4 .testmonial-block .entry-content.quote:before,
+.page-template-template-testimonial-8 .testmonial-block .entry-content:before,
+.page-template-template-testimonial-8 .testmonial-block .entry-content.quote:before{
+    font-size: 3.875rem;
+    top: -18px;
+}
+.testimonial.testi-4 .testmonial-block .avatar,
+.page-template-template-testimonial-8 .testmonial-block .avatar {
+    margin: 0px auto 0.75rem 0.987rem;
+    display: inline-block;
+    width: 4.563rem;
+    height: 5.563rem;
+}
+.testimonial.testi-4 .testmonial-block .entry-content,
+.page-template-template-testimonial-8 .testmonial-block .entry-content {
+    margin: 0px 0 0.5rem;
+}
+.testimonial.testi-4 .testmonial-block figcaption,
+.page-template-template-testimonial-8 .testmonial-block figcaption{
+    display: inline-block;
+    vertical-align: middle;
+    text-align: right;
+}
+.testimonial.testi-4.owl-theme .owl-nav.disabled+.owl-dots,
+.page-template-template-testimonial-8.owl-theme .owl-nav.disabled+.owl-dots {
+    margin-bottom: 1.75rem;
+    margin-top: 2rem;
+}
+.testi-4:before {
+    content: "";
+    display: block;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    z-index: 0;
+}
+@media (min-width:768px){
+.blog .list-view .right .entry-date {
+    margin-top: 0.8rem;
+    left: 0;
+    right: auto;
+    z-index:2;
+}}
+@media (max-width: 768px) {
+    .blog .list-view .right .entry-date {
+        margin-top: 0.8rem;
+        margin-right: 30px;
+        top: auto;
+        z-index:2;
+    }}
+.footer-sidebar .sub-menu li.menu-item {
+    margin-right: 10px;
+}
+.sidebar .wp-block-calendar table caption,.dark .sidebar .wp-block-calendar table tbody {
+    color: #fff;
+}

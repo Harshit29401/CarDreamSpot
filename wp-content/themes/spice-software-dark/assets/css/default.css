@@ -1,0 +1,542 @@
+/* Default CSS */
+blockquote {
+    border-left: 3px solid #D3A656;
+}
+.entry-meta .tag-links a:hover, .entry-meta .tag-links a:focus {
+    background-color: #D3A656;
+    border: 1px solid #D3A656;
+}
+.site-title a:hover{
+    color: #D3A656;
+}
+.entry-content a:hover {
+    color: #D3A656;
+}
+
+.title span {
+    color: #D3A656;
+}
+
+a:hover, a:not([href]):not([tabindex]):hover{color: #D3A656;}
+.entry-meta a:hover {color: #D3A656;}
+
+input[type="submit"] {
+    background: #D3A656;
+}
+
+.btn-default { 
+    background: #D3A656; 
+    border: 1px solid #D3A656; 
+}
+
+.btn-light {
+    border: 1px solid #D3A656; 
+}
+
+.btn-light:hover, .btn-light:focus {
+    background: #D3A656;
+    border: 1px solid #D3A656; 
+}
+
+.btn-default-dark { 
+    background: #D3A656; 
+}
+
+.head-contact-info li a:hover, .head-contact-info li a:focus { color: #D3A656; }
+
+.custom-social-icons li > a:focus {
+    color:#D3A656;
+}
+
+.contact .custom-social-icons li > a:hover, .contact .custom-social-icons li > a:focus {
+    background-color: #D3A656;
+}
+
+.custom-social-icons li > a:hover, .custom-social-icons li > a:focus {
+    color:#D3A656;
+}
+
+.navbar  .search-box-outer .dropdown-menu {
+    border-top: solid 1px #D3A656;
+}
+
+.search-form input[type="submit"] {
+    background: #D3A656 none repeat scroll 0 0;
+    border: 1px solid #D3A656;
+}
+
+.owl-carousel .owl-prev:hover, 
+.owl-carousel .owl-prev:focus { 
+    background-color: #D3A656;
+}
+.owl-carousel .owl-next:hover, 
+.owl-carousel .owl-next:focus { 
+    background-color: #D3A656;
+}
+
+.cta_content, .cta_main {background-color: #D3A656; }
+
+.cta_content .btn-light {
+    color: #D3A656;
+}
+
+.cta_content .btn-light:hover {
+    background: #D3A656;
+}
+
+.cta_content a:after {
+    color: #D3A656; 
+}
+
+.services .post:hover {
+    background-color: #D3A656;
+}
+
+.services .post-thumbnail i.fa {
+    background-color: #D3A656;
+}
+
+.services .post:hover .post-thumbnail i.fa{
+    color: #D3A656;
+}
+
+.testimonial .rating {
+    color: #D3A656;
+}
+
+.funfact {
+    background-color: #D3A656; 
+}
+
+.funfact-inner:hover .funfact-icon {
+    color: #D3A656;
+}
+
+.entry-date {
+    background: #D3A656;
+}
+
+.remove-image{
+    background: #D3A656;
+}
+
+.entry-content p a:hover{color: #D3A656;}
+
+.blog a:hover i 
+/*.blog a:hover span*/
+{color: #D3A656;}
+
+body .pagination li a.page-link.active, .woocommerce .woocommerce-pagination li .page-numbers.current{
+    color: #D3A656;
+}
+
+.pagination .page-link:active{
+    background-color: #D3A656;
+    border-color: #D3A656;
+}
+
+.sidebar .custom-social-icons li > a {color: #D3A656;}
+
+.sidebar .custom-social-icons li > a:hover{
+    background-color: #D3A656;
+}
+
+.widget .widget-title {
+    color: #D3A656;
+}
+
+.widget .search-submit , .widget .search-field [type=submit] {
+    color: #D3A656;
+}
+
+.widget .tagcloud a:hover{
+    background-color: #D3A656; 
+}
+
+.team .list-inline-item a{
+    color: #D3A656;
+}
+
+.team .list-inline-item a:hover,.list-inline-item a:focus {
+    background-color: #D3A656 ;
+}
+
+.woocommerce ul.products li.product .onsale, .products span.onsale, .woocommerce span.onsale{
+    background: #D3A656;
+}
+
+.cart-header > a .cart-total {
+    background: #D3A656;
+}
+.add-to-cart a {
+    color: #D3A656;
+}
+
+.add-to-cart a:hover { 
+    background: #D3A656;
+}
+
+.contact-icon i {
+    color:#D3A656;
+}
+
+.page-breadcrumb li {
+    color:#D3A656; 
+}
+
+.page-breadcrumb li a:hover{
+    color:#D3A656;
+}
+
+.about-subtitle{
+    color:#D3A656;
+}
+
+.about-header .btn-default:hover,.about-header  .btn-default:focus {
+    border: 1px solid #D3A656;
+}
+
+.img-decorate{
+    background: #D3A656;
+}
+
+.contact-detail-area i {
+    color: #D3A656;
+}
+
+.contant-form .wpcf7-form-control-wrap:after {
+    color: #D3A656;
+}
+
+.md-pills .nav-link.active {
+    background-color: #D3A656;
+}
+
+.portfolio .tab-content .portfolio-thumbnail .entry-title a {
+    color: #D3A656;
+} 
+
+.portfolio .tab-content .portfolio-thumbnail i {
+    color: #D3A656;
+    border: 1px solid #D3A656;
+}
+
+.error-page .custom-social-icons li > a:hover,.error-page .custom-social-icons li > a:focus {
+    background-color:#D3A656;
+}
+
+.footer-sidebar .woocommerce ul.product_list_widget li a:hover {
+    color: #D3A656;
+}
+
+.footer-sidebar a:hover{color:#D3A656;}
+
+.scroll-up a {
+    background: #D3A656;
+}
+
+.related-post .single-post .fa {
+    color: #D3A656;
+}
+
+.related-post .single-post a:hover .fa{
+    background:#D3A656; 
+}
+
+.comment-form .comment-reply-title{
+    color: #D3A656;
+}
+
+.comment-form .blog-form-group:after {
+    color: #D3A656;
+}
+
+.comment-form .blog-form-group-textarea:after {
+    color: #D3A656;
+}
+
+.services2 .post::before {
+    background-color: #D3A656;
+}
+
+.services2 .post-thumbnail i.fa {
+    color: #D3A656;  
+}
+
+.services3 .post-thumbnail i.fa {
+    background: #D3A656;
+}
+
+.services3 .post-thumbnail i.fa {
+    box-shadow: #D3A656 0px 0px 0px 2px;
+}
+
+.services3 .post:hover .post-thumbnail i.fa {
+    color: #D3A656; 
+}
+
+.services3 .post-thumbnail img {
+    box-shadow: #D3A656 0px 0px 0px 2px;
+}
+
+.services3 .post:hover .post-thumbnail img {
+    color: #D3A656; 
+}
+
+#testimonial-carousel2 .testmonial-block,.page-template-template-testimonial-6 .testmonial-block {
+    border-left: 4px solid #D3A656;
+}
+
+.page-template-template-testimonial-6 .testmonial-block:before, #testimonial-carousel2 .testmonial-block:before {
+    border-top: 25px solid #D3A656;
+}
+
+.team2 .team-grid .card-body .list-inline li > a:hover {
+    color: #D3A656;
+}
+
+.team3 .team-grid .card-body .list-inline li > a:hover {
+    color: #D3A656;
+}
+
+.services4 .post-thumbnail i.fa {
+    color: #D3A656;  
+} 
+
+.team4 .team-grid .list-inline li > a:hover {
+    color: #D3A656;
+}
+
+.site-info span a:hover {color: #D3A656;}
+
+.site-info .site-privacy a:hover{
+    color:#D3A656;
+}
+
+.owl-theme .owl-dots .owl-dot.active span {
+    background-color: #D3A656;
+    box-shadow: #D3A656 0px 0px 0px 2px;
+}
+
+#searchbar_fullscreen .btn {
+    background-color: #D3A656;
+}
+
+.page-breadcrumb a:hover{
+    color: #D3A656;
+}
+
+/*jquery.smarmenu.bootstrap-4 css*/
+.navbar .nav .nav-item:hover .nav-link, 
+.navbar .nav .nav-item.active .nav-link {
+    color: #D3A656;
+}
+.dropdown-item.active, .dropdown-item:active,.dropdown-item:hover {
+    color:#D3A656;
+}
+
+.footer-sidebar .widget .widget-title:after {
+    background: #D3A656;
+}
+
+.navbar ul li a .menu-text:hover:after,.navbar .nav li.active .nav-link .menu-text:after,.navbar-nav .show .dropdown-menu > .active > .menu-text:after , .navbar-nav .show .dropdown-menu > .active > .menu-text:focus {
+    background: #D3A656;
+}
+/*jquery.smarmenu.bootstrap-4 css*/
+
+.breadcrumb_last{
+    color: #D3A656;
+}
+
+.entry-meta a:hover span {
+    color:#D3A656;
+}
+
+.entry-meta i {
+    color: #D3A656;
+}
+
+.nav-links .page-numbers.current {
+    color: #D3A656
+}
+
+.page-numbers {
+    color: #D3A656;
+}
+
+.gallery-item > div > a:focus {
+    box-shadow: 0 0 0 2px #D3A656;
+}
+
+.woocommerce ul.products li.product .button, .owl-item .item .cart .add_to_cart_button {
+    background-color: #D3A656;
+}
+
+.woocommerce p.stars a {
+    color: #D3A656;
+}
+
+.woocommerce div.product form.cart .button, .woocommerce a.button, .woocommerce a.button:hover, .woocommerce a.button, .woocommerce .woocommerce-Button, .woocommerce .cart input.button, .woocommerce input.button.alt, .woocommerce button.button, .woocommerce #respond input#submit, .woocommerce .cart input.button:hover, .woocommerce .cart input.button:focus, .woocommerce input.button.alt:hover, .woocommerce input.button.alt:focus, .woocommerce input.button:hover, .woocommerce input.button:focus, .woocommerce button.button:hover, .woocommerce button.button:focus, .woocommerce #respond input#submit:hover, .woocommerce #respond input#submit:focus, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button, .woocommerce button.button.alt  {
+        background: #D3A656;
+}
+
+.woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover,.woocommerce a.button,.woocommerce a.button:hover  {
+        background-color: #D3A656;
+}
+.woocommerce-error, .woocommerce-info, .woocommerce-message {
+    border-top-color: #D3A656;
+}
+
+.woocommerce-error::before, .woocommerce-info::before, .woocommerce-message::before {
+    color: #D3A656;
+}
+
+.woocommerce div.product form.cart .button {
+    background-color: #D3A656;
+}
+
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+    background: #D3A656;
+    border-bottom-color: #D3A656;
+}
+
+.team4 .list-inline  > a:hover {
+    color: #D3A656;
+}
+button, input[type="button"], input[type="submit"] {
+    background-color: #D3A656;
+}
+.taxonomy-list a:hover {
+    color: #D3A656;
+}
+.woocommerce nav.woocommerce-pagination ul li span.current {
+    background: #D3A656;
+}
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
+   background-color: #D3A656;
+}
+.blog.home-blog .entry-header .entry-title a:hover{
+    color: #D3A656;
+}
+.spice-software-preloader-cube .spice-software-cube:before {background: #D3A656;}
+.spice_software_header_btn {background-color: #D3A656;}
+.eight .spice_software_header_btn:hover {background-color: #D3A656;}
+.navbar .nav .nav-item.html a:hover{color: #D3A656;}
+.nav-item.radix-html a:hover {
+    color: #D3A656;
+}
+.pagination .page-link:hover, .nav-links .page-numbers:hover{
+    color:#D3A656;
+}
+@media (max-width: 768px) {
+    .navbar4 .header-lt {
+        background: #D3A656;
+        padding: 15px;
+    }
+} 
+.dark .pagination .page-link,.nav-links .page-numbers,.dark .comment-section a:hover {
+    color: #D3A656;
+   
+}
+.dark .sidebar ul li a:hover {
+    color: #D3A656;
+}
+.navbar .nav .nav-item:hover .nav-link, .navbar .nav .nav-item.active .nav-link, .dropdown-menu > li.active > a, .navbar .nav .nav-item.current_page_parent .nav-link {
+    color: #D3A656 !important;
+}
+.navbar-nav a.bg-light:focus, .navbar-nav a.bg-light:hover, .navbar-nav button.bg-light:focus, .navbar-nav button.bg-light:hover {
+    color: #D3A656 !important;
+}
+
+/*New widget css*/
+.sidebar .wp-block-search .wp-block-search__label,.sidebar .widget.widget_block h1,.sidebar .widget.widget_block h2,.sidebar .widget.widget_block h3,.sidebar .widget.widget_block h4,.sidebar .widget.widget_block h5,.sidebar .widget.widget_block h6{
+    color:#D3A656;
+}
+
+ .widget .wp-block-tag-cloud a:hover {
+    background-color: #D3A656;
+    color:#fff;
+}
+.footer-sidebar .wp-block-search .wp-block-search__label,.footer-sidebar .widget.widget_block h1,.footer-sidebar .widget.widget_block h2,.footer-sidebar .widget.widget_block h3,.footer-sidebar .widget.widget_block h4,.footer-sidebar .widget.widget_block h5,.footer-sidebar .widget.widget_block h6{   
+     color: #D3A656; } 
+.footer-sidebar .wp-block-search .wp-block-search__label:after, 
+.footer-sidebar .widget.widget_block h1:after, 
+.footer-sidebar .widget.widget_block h2:after, 
+.footer-sidebar .widget.widget_block h3:after, 
+.footer-sidebar .widget.widget_block h4:after, 
+.footer-sidebar .widget.widget_block h5:after, 
+.footer-sidebar .widget.widget_block h6:after{
+     background-color:#D3A656;
+}   
+.wp-block-search__button:after{
+   color:#D3A656;
+}
+.dark .woocommerce nav.woocommerce-pagination ul li a, 
+.dark .woocommerce nav.woocommerce-pagination ul li span.current {
+    color: #D3A656;
+}
+.dark .woocommerce nav.woocommerce-pagination ul li a:focus, 
+.dark .woocommerce nav.woocommerce-pagination ul li a:hover, 
+.dark .woocommerce nav.woocommerce-pagination ul li span.current {
+    color: #D3A656;
+    background-color: #000000;
+}
+.dark .entry-meta a:hover {
+    color: #D3A656;
+}
+/*.widget .wp-block-tag-cloud a:hover {
+    color: #D3A656;
+}*/
+.sidebar a:hover{
+    color: #D3A656;
+}
+.services3 h4.entry-title a:hover{
+    color: #D3A656;
+}
+.blog .entry-title a.blog-title:hover{
+   color: #D3A656;
+}
+.dark .navbar .nav .dropdown-menu .text-dark,.dark .navbar .nav .dropdown-menu a.text-dark:focus,
+.dark .navbar .nav .dropdown-menu a.text-dark:hover{
+    color: #D3A656!important;
+}
+/*css for Rank Math Breadcrumbs */
+nav.rank-math-breadcrumb {
+    text-align: center ! important;
+}
+nav.rank-math-breadcrumb span {
+    color: #D3A656 !important;
+}
+nav.rank-math-breadcrumb a:hover {
+    color: #D3A656 ! important;
+}
+nav.rank-math-breadcrumb a {
+    color: #fff ! important;
+    padding-right: 5px ! important;
+}
+/*css for  NavXT */
+.bs-breadcrumb-section .breadcrumb a, .bs-breadcrumb-section .breadcrumb-item span {
+    color: #bb2323;
+}
+.bs-breadcrumb-section .breadcrumb, .bs-breadcrumb-section .breadcrumb a {
+    font-size: 13px;
+}
+.page-breadcrumb.text-center span {
+    background: none;
+	box-shadow: none;
+}
+.page-breadcrumb.text-center span:hover {
+    background: none;
+}
+.page-breadcrumb.text-center span.post-page.current-item,
+.page-breadcrumb.text-center span.post-post.current-item {
+   color: #D3A656 !important;
+}
+.page-breadcrumb {
+    color: #fff;
+}
+
+.navxt-breadcrumb .current-item {
+    color: #D3A656;
+}

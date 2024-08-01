@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Winong Extended';
+    src: url('WinongExtendedBold.eot');
+    src: url('WinongExtendedBold.eot?#iefix') format('embedded-opentype'),
+        url('WinongExtendedBold.woff2') format('woff2'),
+        url('WinongExtendedBold.woff') format('woff'),
+        url('WinongExtendedBold.ttf') format('truetype'),
+        url('WinongExtendedBold.svg#WinongExtendedBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Winong Extended';
+    src: url('WinongExtendedRegular.eot');
+    src: url('WinongExtendedRegular.eot?#iefix') format('embedded-opentype'),
+        url('WinongExtendedRegular.woff2') format('woff2'),
+        url('WinongExtendedRegular.woff') format('woff'),
+        url('WinongExtendedRegular.ttf') format('truetype'),
+        url('WinongExtendedRegular.svg#WinongExtendedRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

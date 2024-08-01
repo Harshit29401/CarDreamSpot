@@ -1,0 +1,261 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SEO Optimized Images\n"
+"POT-Creation-Date: 2023-07-05 19:15+0530\n"
+"PO-Revision-Date: 2019-02-16 16:14+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: seo-optimized-images.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: seo-optimized-images-settings.php:23
+msgid "Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: seo-optimized-images-settings.php:28 seo-optimized-images.php:67
+msgid "SEO Optimized Images"
+msgstr ""
+
+#: seo-optimized-images-settings.php:38 seo-optimized-images-settings.php:62
+msgid "General Settings"
+msgstr ""
+
+#: seo-optimized-images-settings.php:40
+msgid "FAQ"
+msgstr ""
+
+#: seo-optimized-images-settings.php:42 seo-optimized-images-settings.php:207
+msgid "Support"
+msgstr ""
+
+#: seo-optimized-images-settings.php:44 seo-optimized-images-settings.php:223
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: seo-optimized-images-settings.php:67
+msgid "Alt attribute value"
+msgstr ""
+
+#: seo-optimized-images-settings.php:69
+msgid "The Alt attributes will be dynamically replaced by the above value."
+msgstr ""
+
+#: seo-optimized-images-settings.php:71 seo-optimized-images-settings.php:182
+msgid "Will insert image name."
+msgstr ""
+
+#: seo-optimized-images-settings.php:71 seo-optimized-images-settings.php:183
+msgid "Will insert post title."
+msgstr ""
+
+#: seo-optimized-images-settings.php:72 seo-optimized-images-settings.php:184
+msgid "Will insert post categories."
+msgstr ""
+
+#: seo-optimized-images-settings.php:78
+msgid "Override existing alt tag"
+msgstr ""
+
+#: seo-optimized-images-settings.php:82 seo-optimized-images-settings.php:105
+#: seo-optimized-images-settings.php:121 seo-optimized-images-settings.php:137
+msgid "YES"
+msgstr ""
+
+#: seo-optimized-images-settings.php:83 seo-optimized-images-settings.php:106
+#: seo-optimized-images-settings.php:122 seo-optimized-images-settings.php:138
+msgid "NO"
+msgstr ""
+
+#: seo-optimized-images-settings.php:89
+msgid "Do you want to override existing alt tags?"
+msgstr ""
+
+#: seo-optimized-images-settings.php:94
+msgid "Title attribute value"
+msgstr ""
+
+#: seo-optimized-images-settings.php:96
+msgid "The Title attribute will be dynamically replaced by the above value."
+msgstr ""
+
+#: seo-optimized-images-settings.php:101
+msgid "Override existing title tag"
+msgstr ""
+
+#: seo-optimized-images-settings.php:112
+msgid "Do you want to override existing title tags?"
+msgstr ""
+
+#: seo-optimized-images-settings.php:117
+msgid "Override alt and title attributes of feature/thumbnail images."
+msgstr ""
+
+#: seo-optimized-images-settings.php:128
+msgid ""
+"Do you want to optimize post/page thumbnail images or to make images SEO "
+"friendly?"
+msgstr ""
+
+#: seo-optimized-images-settings.php:128 seo-optimized-images-settings.php:144
+#: seo-optimized-images-settings.php:152
+msgid "Available In PRO"
+msgstr ""
+
+#: seo-optimized-images-settings.php:133
+msgid "Override alt and title tags of WooCommerce products images."
+msgstr ""
+
+#: seo-optimized-images-settings.php:144
+msgid ""
+"Do you want to optimize WooCommerce images or make them search engine "
+"friendly?"
+msgstr ""
+
+#: seo-optimized-images-settings.php:149
+msgid "Enable Yoast primary category"
+msgstr ""
+
+#: seo-optimized-images-settings.php:152
+msgid "Show only primary category created by Yoast SEO Plugin."
+msgstr ""
+
+#: seo-optimized-images-settings.php:159
+msgid "Save Changes"
+msgstr ""
+
+#: seo-optimized-images-settings.php:175
+msgid "How does it work?"
+msgstr ""
+
+#: seo-optimized-images-settings.php:180
+msgid ""
+"1. The plugin dynamically replaces the alt tags with the pattern specified "
+"by you. It makes no changes to the database."
+msgstr ""
+
+#: seo-optimized-images-settings.php:181
+msgid ""
+"2. Since there are no changes to the database, one can have different alt "
+"tags for same images on different pages/posts."
+msgstr ""
+
+#: seo-optimized-images-settings.php:191
+msgid "Why optimize alt tags?"
+msgstr ""
+
+#: seo-optimized-images-settings.php:196
+msgid ""
+"1. According to <a target = \"_blank\" href = \"http://"
+"googlewebmastercentral.blogspot.in/2007/12/using-alt-attributes-smartly."
+"html\"> this post </a> on the Google Webmaster Blog, Google tends to focus "
+"on the information in the ALT text. Creating a optimized alt tags can bring "
+"more traffic from Search Engines"
+msgstr ""
+
+#: seo-optimized-images-settings.php:198
+msgid ""
+"2. Take note that the plugin does not make changes to the database. It "
+"dynamically replaces the tags at the times of page load."
+msgstr ""
+
+#: seo-optimized-images-settings.php:211
+msgid ""
+"1. For any queries contact us via the <a href='https://wordpress.org/support/"
+"plugin/seo-optimized-images' target='_blank'> support forums.</a>"
+msgstr ""
+
+#: seo-optimized-images-settings.php:213
+msgid ""
+"2. If you like our plugin and support then kindly share your <a "
+"href=“https://wordpress.org/support/view/plugin-reviews/seo-optimized-"
+"images” target=“_blank”>feedback</a>. Your feedback is valuable."
+msgstr ""
+
+#: seo-optimized-images-settings.php:232
+msgid "Pricing"
+msgstr ""
+
+#: seo-optimized-images-settings.php:233
+msgid "We have 2 packages"
+msgstr ""
+
+#: seo-optimized-images-settings.php:236
+msgid "SEO - Business package"
+msgstr ""
+
+#: seo-optimized-images-settings.php:237
+msgid ""
+"The package supports <b>Featured Images, Custom Post Images and Custom Rules."
+"</b> The price of this package is <b>$69</b>"
+msgstr ""
+
+#: seo-optimized-images-settings.php:239
+msgid "SEO - Business with WooCommerce package"
+msgstr ""
+
+#: seo-optimized-images-settings.php:240
+msgid ""
+"The package supports <b>WooCommerce Images, Featured Images, Custom Post "
+"Images and Custom Rules.</b> The price of this package is <b>$89</b>"
+msgstr ""
+
+#: seo-optimized-images-settings.php:243
+msgid ""
+"Support and updates will be given for 1 year.<br>If you need updates and "
+"support after one year, then simply renew your subscription. If not, then "
+"you may still keep using the plugin."
+msgstr ""
+
+#: seo-optimized-images-settings.php:245
+msgid "How to purchase"
+msgstr ""
+
+#: seo-optimized-images-settings.php:246
+msgid ""
+"If you are interested, buy the plugin <a href=\"http://webriti.com/seo-"
+"optimized-images/\" target=\"_blank\">here</a>. Once purchase is completed, "
+"<a href=\"https://users.freemius.com/login\" target=\"_blank\">login</a> to "
+"your account and download the latest package."
+msgstr ""
+
+#: seo-optimized-images-settings.php:247
+msgid "Looking forward to work with you"
+msgstr ""
+
+#: seo-optimized-images-settings.php:248
+msgid "Thousands of users have enjoyed using our plugin."
+msgstr ""
+
+#: seo-optimized-images-settings.php:256
+msgid "Upgrade to PRO version"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://webriti.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The **SEO Optimized Images** plugin lets you dynamically insert SEO Friendly "
+"alt attributes and title attributes to your Images. Simply activate the "
+"plugin, provide the pattern, and you are ready to go."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "priyanshu.mittal"
+msgstr ""

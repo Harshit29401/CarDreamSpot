@@ -1,0 +1,97 @@
+#accordion-section-colors
+{
+	display: none !important;
+}
+#breadcrumbs-display-blog-page
+{
+	display: none !important;
+}	
+#customize-control-after_menu_btn_txt
+{
+	display: none;
+}
+#customize-control-after_menu_btn_link
+{
+	display: none;
+}
+#customize-control-after_menu_btn_new_tabl
+{
+	display: none;
+}    	
+#customize-control-after_menu_btn_border
+{
+	display: none;
+}    
+#customize-control-after_menu_html
+{
+	display: none;
+}
+#customize-control-theme_color input[type=radio], #customize-control-spice_software_layout_style input[type=radio], #customize-control-theme_style_type input[type=radio], #customize-control-predefined_back_image input[type=radio] {
+    display: none !important;
+}
+
+/********** Header Typography **********/
+.customize-pane-child>li[id=customize-control-site_title_fontsize] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-site_title_line_height] {width: 48% ; clear: none; padding-right: 5px;}	
+.customize-pane-child>li[id=customize-control-site_tagline_fontsize] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-site_tagline_line_height] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-menu_title_fontsize] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-menu_line_height] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-submenu_title_fontsize] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-submenu_line_height] {width: 48% ; clear: none; padding-right: 5px;}
+
+/********** Slide Typography **********/
+.customize-pane-child>li[id=customize-control-slider_title_fontsize] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-slider_line_height] {width: 48% ; clear: none; padding-right: 5px;}
+
+/********** Homepage Section Typography **********/
+.customize-pane-child>li[id=customize-control-section_subtitle_fontsize] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-section_description_line_height] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-section_title_fontsize] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-section_title_line_height] {width: 48% ; clear: none; padding-right: 5px;}
+
+/********** Content Typography **********/
+.customize-pane-child>li[id=customize-control-h1_typography_fontsize] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-h1_line_height] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-h2_typography_fontsize] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-h2_line_height] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-h3_typography_fontsize] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-h3_line_height] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-h4_typography_fontsize] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-h4_line_height] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-h5_typography_fontsize] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-h5_line_height] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-h6_typography_fontsize] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-h6_line_height] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-p_typography_fontsize] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-p_line_height] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-button_text_typography_fontsize] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-button_line_height] {width: 48% ; clear: none; padding-right: 5px;}
+
+
+/********** Blog / Archive / Single Post Typography **********/
+.customize-pane-child>li[id=customize-control-post-title_fontsize] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-post-title_line_height] {width: 48% ; clear: none; padding-right: 5px;}
+
+/********** Shop Page Typography **********/
+.customize-pane-child>li[id=customize-control-shop_h1_typography_fontsize] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-shop_h1_line_height] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-shop_h2_typography_fontsize] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-shop_h2_line_height] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-shop_h3_typography_fontsize] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-shop_h3_line_height] {width: 48% ; clear: none; padding-right: 5px;}
+
+/********** Sidebar Typography **********/
+.customize-pane-child>li[id=customize-control-sidebar_fontsize] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-sidebar_line_height] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-sidebar_widget_content_fontsize] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-sidebar_widget_content_line_height] {width: 48% ; clear: none; padding-right: 5px;}
+
+/********** Footer Typography **********/
+.customize-pane-child>li[id=customize-control-footer_widget_title_fontsize] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-footer_widget_title_line_height] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-footer_widget_content_fontsize] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-pane-child>li[id=customize-control-footer_widget_content_line_height] {width: 48% ; clear: none; padding-right: 5px;}
+.customize-control-radio {
+    padding: 0;
+}

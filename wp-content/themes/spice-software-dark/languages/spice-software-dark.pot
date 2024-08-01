@@ -1,0 +1,381 @@
+# Spice Software Dark WordPress Pot
+# Copyright 2021 ...
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Spice Spice "
+"Software Dark WordPress Pot "
+"v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator "
+"Name <translations@example.com>\n"
+"POT-Creation-Date: 2023-02-10 "
+"13:42+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your Name "
+"<you@example.com>\n"
+"Language-Team: Your Team "
+"<translations@example.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; "
+"charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; "
+"plural=n != 1;\n"
+"X-Textdomain-Support: yesX-"
+"Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;"
+"esc_html_e;esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_attr__;"
+"_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;_n:1,2;"
+"_n_noop:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/inc/class-spicethemes-about-page.php:70
+#: admin/inc/include-companion.php:41
+#: admin/inc/plugin-include-control.php:40
+msgid "Installing"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:71
+#: admin/inc/include-companion.php:42
+#: admin/inc/plugin-include-control.php:41
+msgid "Activating"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:72
+#: admin/inc/include-companion.php:43
+#: admin/inc/plugin-include-control.php:42
+msgid "Error"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:111
+msgid "View Theme Info"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:119
+#, php-format
+msgid "About %1$s %2$s"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:120
+#, php-format
+msgid "Welcome to %1$s %2$s"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:133
+#, php-format
+msgid ""
+"Spice Software Dark theme is "
+"installed. To take full advantage "
+"of the features this theme has to "
+"offer visit our %1$swelcome "
+"page%2$s"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:134
+msgid ""
+"Get started with Spice Software "
+"Dark theme"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:231
+#: admin/tab-pages/getting-started.php:24
+msgid "Getting Started"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:236
+msgid "Recommended Actions"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:244
+msgid "Support"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:320
+#, php-format
+msgid "Install %s now"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:322
+#: admin/inc/include-companion.php:81
+msgid "Install and activate"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:339
+#, php-format
+msgid "Activate %s now"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:341
+msgid "Activate"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:344
+msgid "Active"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:491
+#: admin/inc/include-companion.php:80
+#: admin/inc/include-companion.php:97
+msgid "Spice Box"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:493
+msgid ""
+"To access the advance Frontpage "
+"sections and other theme "
+"features, please install the "
+"Spice Box plugin."
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:497
+msgid "Contact Form 7"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:499
+msgid ""
+"To display the contact form on "
+"the contact section in homepage, "
+"please install the Contact Form 7 "
+"plugin."
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:503
+msgid "Unique Headers"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:505
+msgid ""
+"You can add different banner "
+"image for a different page or "
+"post according to you."
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:509
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:511
+msgid ""
+"To create a shop page you just "
+"need to install this plugin & "
+"activate it."
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:515
+msgid "Yoast SEO"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:517
+msgid ""
+"To display breadcrumbs, please "
+"install the Yoast SEO plugin."
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:521
+msgid "Spice Post Slider"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:523
+msgid ""
+"To display the posts in beautiful "
+"slider with multiple options you "
+"just need to install & activate "
+"this plugin."
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:527
+msgid "Spice Social Share"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:529
+msgid ""
+"To add social share buttons to "
+"your posts you just need to "
+"install & activate this plugin."
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:533
+msgid "Seo Optimized Images"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:535
+msgid ""
+"It is recommended that you "
+"install & activate the Seo "
+"Optimized Images plugin to "
+"dynamically insert SEO Friendly "
+"alt attributes and title "
+"attributes to your Images."
+msgstr ""
+
+#: admin/inc/include-companion.php:79
+msgid ""
+"To take advantage of this theme's "
+"features in the customizer you "
+"need to install the Spice Box "
+"plugin."
+msgstr ""
+
+#: admin/inc/include-companion.php:80
+msgid "Install Spice Box Now"
+msgstr ""
+
+#: admin/inc/include-companion.php:96
+msgid ""
+"You have installed the Spice Box "
+"plugin. To take advantage of this "
+"theme's features in the "
+"customizer, you need to activate "
+"it."
+msgstr ""
+
+#: admin/inc/include-companion.php:97
+msgid "Activate Spice Box now"
+msgstr ""
+
+#: admin/inc/include-companion.php:98
+msgid "Activate now"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:13
+msgid "Spice Software Dark"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:19
+msgid ""
+"This theme is ideal for creating "
+"corporate and business websites. "
+"It is a child theme of the Spice "
+"Software WordPress theme. The "
+"premium version has tons of "
+"features: a homepage with many "
+"sections where you can feature "
+"unlimited slides, portfolios, "
+"user reviews, latest news, "
+"services, calls to action, and "
+"much more. Each section in the "
+"Homepage template is carefully "
+"designed to fit all business "
+"requirements."
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:21
+msgid ""
+"You can use this theme for any "
+"type of activity. The theme is "
+"compatible with popular plugins "
+"like WPML and Polylang."
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:27
+msgid ""
+"To take full advantage of all the "
+"features this theme has to offer, "
+"install and activate the Spice "
+"Box plugin. Go to Customize and "
+"install the Spice Box plugin."
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:30
+msgid "Go to the Customizer"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:36
+msgid "Spice Software Dark theme"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:44
+msgid "Useful Links"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:51
+msgid "Lite Demo"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:60
+msgid "PRO Demo"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:69
+msgid "Theme Support"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:78
+msgid ""
+"Your feedback is valuable to us"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:88
+msgid "Premium Theme Details"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:96
+msgid "Free vs Plus"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:103
+#: admin/tab-pages/useful_plugins.php:21
+#: admin/tab-pages/useful_plugins.php:23
+msgid "Changelog"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:12
+#: admin/tab-pages/useful_plugins.php:14
+msgid "Contact Support"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:13
+msgid ""
+"We want to make sure you have the "
+"best experience using this theme, "
+"and that is why we have gathered "
+"all the necessary information "
+"here for you. We hope you will "
+"enjoy using this theme as much as "
+"we enjoy creating great products."
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:22
+msgid ""
+"Want to get the list of the "
+"latest theme changes? Just "
+"consult our changelog below to "
+"get a taste of the recent fixes "
+"and features implemented."
+msgstr ""
+
+#: functions.php:80
+msgid ""
+"Click here to apply these settings"
+msgstr ""
+
+#: functions.php:95
+msgid "Skin Color"
+msgstr ""
+
+#: functions.php:180
+msgid ""
+"Proudly powered by <a "
+"href=\"https://wordpress."
+"org\">WordPress</a> | Theme: <a "
+"href=\"https://spicethemes.com/"
+"spice-software-dark-wordpress-"
+"theme\" rel=\"nofollow\">Spice "
+"Software Dark</a> by <a "
+"href=\"https://spicethemes.com\" "
+"rel=\"nofollow\">Spicethemes</a>"
+msgstr ""
+
+#: header.php:30
+msgid "Skip to content"
+msgstr ""
