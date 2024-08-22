@@ -12,7 +12,7 @@ This project is a car rental website developed using WordPress, Elementor, and W
 ![About Us](wp-content/uploads/2024/About_Us_Desktop.png)
 
 ### Contact Us
-![Contact Us](wp-content/uploads/2024/contact_us.png)
+![Contact Us](wp-content/uploads/2024/Contact_Us.png)
 
 ### Current Stock
 ![Current Stock](wp-content/uploads/2024/current_stock.png)
@@ -22,13 +22,13 @@ This project is a car rental website developed using WordPress, Elementor, and W
 ![Account Details](wp-content/uploads/2024/Account_Detail.png)
 
 ### Car Comparison
-![Car Comparison](wp-content/uploads/2024/Car_Comparsion.png)
+![Car Comparison](wp-content/uploads/2024/Car_Comparsion.PNG)
 
 ### Cart
 ![Cart](wp-content/uploads/2024/Cart.png)
 
 ### Login
-![Login](wp-content/uploads/2024/Login.png)
+![Login](wp-content/uploads/2024/Login.PNG)
 
 ### Product Page
 ![Product Page](wp-content/uploads/2024/Product_Page.png)
@@ -38,7 +38,7 @@ This project is a car rental website developed using WordPress, Elementor, and W
 ![Quotation](wp-content/uploads/2024/Qutation.png)
 
 ### Register
-![Register](wp-content/uploads/2024/Register.png)
+![Register](wp-content/uploads/2024/Register.PNG)
 
 ### Sell Your Car
 ![Sell Your Car](wp-content/uploads/2024/Sell_Your_Car.png)
